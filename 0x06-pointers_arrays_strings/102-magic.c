@@ -1,8 +1,6 @@
 #include <stdio.h>
-/* decription */
 
 int main(void)
-
 {
 	int n;
 
